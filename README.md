@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **YouTube Consultation**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React, Angular and Typescript**
 
 - 📝 I regularly write articles on [Wicket Nepal](Wicket Nepal)
 
