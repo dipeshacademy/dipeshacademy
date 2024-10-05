@@ -4,12 +4,12 @@ I'm currently working on the Initiative of unique SaaS Ideas.<br>I'm looking to 
 
 #### Career & Other Fun Stuff
 
-- Co-founder & Lead Developer of tmrrw inc 💼👨‍💻
+- Co-founder of Secretive 💼👨‍💻
 - ~60,000 views across all articles online 👀
 - Loves to contibute to Open Source 🔧
 - Creating tutorials for people online 🧠
 - Looking for like-minded devs and mentoring 👨‍🏫
-- 
+- This is my secondary account 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipeshacademy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipeshacademy) 
